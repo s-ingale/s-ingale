@@ -4,11 +4,7 @@
                                                                                                                     
   ## Projects                                                                                                       
                   
-  - **[Tool Calling from Scratch](https://github.com/s-ingale/tool-calling-from-scratch)** — *(in progress)*
-
-  ## Writing                                                                                                        
-   
-  - [Blog](https://shubhamingaleiitb.github.io/shubham_blog/)                                                       
+  - **[Tool Calling from Scratch](https://github.com/s-ingale/tool-calling-from-scratch)** — *(in progress)*                                                     
                   
   ---
 
