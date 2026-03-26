@@ -4,7 +4,7 @@
                                                                                                                     
   ## Projects                                                                                                       
                   
-  - **[Tool Calling from Scratch](https://github.com/s-ingale/tool-calling-from-scratch)** — *(in progress)*                                                     
+  - **[Tool Calling from Scratch](https://github.com/s-ingale/tool-calling-from-scratch)**                                                 
                   
   ---
 
