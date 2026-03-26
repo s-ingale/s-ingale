@@ -4,8 +4,9 @@
                                                                                                                     
   ## Projects                                                                                                       
                   
-  - **[Tool Calling from Scratch](https://github.com/s-ingale/tool-calling-from-scratch)**                                                 
-                  
+  - **[Tool Calling from Scratch](https://github.com/s-ingale/tool-calling-from-scratch)**
+  - **[SSE from Scratch](https://github.com/s-ingale/sse-from-scratch)** — 🚧 In Progress
+
   ---
 
   [Email](mailto:shubhamingale2303@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ingale-shubham/)  
